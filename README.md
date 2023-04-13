@@ -1,3 +1,7 @@
+aka，pixiv在境内没办法正常访问，于是有了一众第三方App能够实现直连pixiv的操作。通过绕过SNI审查的方式实现直连，其中我所提到的Shaft就是其中之一。
+ref: https://github.com/CeuiLiSA/Pixiv-Shaft/issues/243
+ref: https://github.com/CeuiLiSA/Pixiv-Shaft
+
 ## 背景介绍
 有一台旧手机，里面有一些Shaft的缓存的图片和小说，解了bl锁但是没有root，没有办法直接获取缓存文件。
 ## 过程简介（仅包含原理） TL; DR
