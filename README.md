@@ -1,4 +1,4 @@
-aka，pixiv在境内没办法正常访问，于是有了一众第三方App能够实现直连pixiv的操作。通过绕过SNI审查的方式实现直连，其中我所提到的Shaft就是其中之一。
+众所周知，pixiv在境内没办法正常访问，于是有了一众第三方App能够实现直连pixiv的操作。通过绕过SNI审查的方式实现直连，其中我所提到的Shaft就是其中之一。
 ref: https://github.com/CeuiLiSA/Pixiv-Shaft/issues/243
 ref: https://github.com/CeuiLiSA/Pixiv-Shaft
 
